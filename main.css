@@ -1,0 +1,44 @@
+h1{
+    color: green;
+}
+#us{
+    color: blue;
+}
+.everyday{
+    background-color: black;
+    color: white;
+}
+.form-class label{
+    color: pink;
+}
+.box{
+    background-color: red;
+    padding-top: 50px;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid greenyellow;
+
+    margin: 50px;
+}
+.title {
+    background-color: green;
+}
+.divH4{
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    /* padding: 50px; */
+    box-sizing: border-box;
+}
+.divH5{
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.centerH4 {
+    width: 500px;
+    margin: auto;
+    border: 1px solid red;
+    text-align: center;
+}
